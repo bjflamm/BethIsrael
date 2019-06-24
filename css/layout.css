@@ -36,8 +36,8 @@ header {
    background: #161415 url(../images/jerusalem.png) no-repeat top center;
 /*   background-size: cover !important;
 	-webkit-background-size: cover !important;*/
-/*   text-align: center;
-   overflow: hidden;*/
+   text-align: center;
+   overflow: hidden;
 }
 
 /* vertically center banner section */

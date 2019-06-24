@@ -27,18 +27,18 @@ body { background: #0f0f0f; }
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
 /* ------------------------------------------------------------------ */
-
+/*
 header {
    position: relative;
    height: 300px;
-   /*min-height: 250px;*/
+   /*min-height: 250px;
    width: 50%;
-   background: #161415 url(../images/jerusalem.png) no-repeat top center;
+   background: #161415 url(../images/jerusalem.png) no-repeat top center;*/
 /*   background-size: cover !important;
 	-webkit-background-size: cover !important;*/
-   text-align: center;
+/*   text-align: center;
    overflow: hidden;
-}
+}*/
 
 /* vertically center banner section */
 header:before {
